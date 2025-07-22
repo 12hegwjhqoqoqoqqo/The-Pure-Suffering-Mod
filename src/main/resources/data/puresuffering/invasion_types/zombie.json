@@ -3,15 +3,15 @@
     "minecraft:overworld"
   ],
   "InvasionTime": "NIGHT",
-  "Rarity": 1,
+  "Rarity": 0
   "SeverityInfo": [
     {
       "MobCapPercentage": 0.6,
       "MobSpawnList": [
         {
           "EntityType": "minecraft:zombie",
-          "MaxCount": 3,
-          "MinCount": 1,
+          "MaxCount": 30
+          "MinCount": 10
           "Weight": 12
         }
       ],
@@ -22,14 +22,14 @@
       "MobSpawnList": [
         {
           "EntityType": "minecraft:zombie",
-          "MaxCount": 4,
-          "MinCount": 1,
+          "MaxCount": 30
+          "MinCount": 10
           "Weight": 12
         },
         {
           "EntityType": "minecraft:zombie_villager",
-          "MaxCount": 1,
-          "MinCount": 1,
+          "MaxCount": 10
+          "MinCount": 5
           "Weight": 1
         }
       ],
@@ -40,14 +40,14 @@
       "MobSpawnList": [
         {
           "EntityType": "minecraft:zombie",
-          "MaxCount": 6,
-          "MinCount": 2,
+          "MaxCount": 30
+          "MinCount": 5
           "Weight": 12
         },
         {
           "EntityType": "minecraft:zombie_villager",
-          "MaxCount": 2,
-          "MinCount": 1,
+          "MaxCount": 10
+          "MinCount": 5
           "Weight": 1
         }
       ],
@@ -58,14 +58,14 @@
       "MobSpawnList": [
         {
           "EntityType": "minecraft:zombie",
-          "MaxCount": 8,
-          "MinCount": 3,
+          "MaxCount": 30
+          "MinCount": 10
           "Weight": 12
         },
         {
           "EntityType": "minecraft:zombie_villager",
-          "MaxCount": 3,
-          "MinCount": 1,
+          "MaxCount": 10
+          "MinCount": 5
           "Weight": 1
         }
       ],
@@ -76,14 +76,14 @@
       "MobSpawnList": [
         {
           "EntityType": "minecraft:zombie",
-          "MaxCount": 10,
-          "MinCount": 4,
+          "MaxCount": 30
+          "MinCount": 10
           "Weight": 12
         },
         {
           "EntityType": "minecraft:zombie_villager",
-          "MaxCount": 4,
-          "MinCount": 2,
+          "MaxCount": 10
+          "MinCount": 5
           "Weight": 1
         }
       ],
